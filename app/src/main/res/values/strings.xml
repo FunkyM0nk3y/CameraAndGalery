@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Camera And Galery</string>
+
+  <string name="takePic">Take Pic</string>
+  <string name="searchPic">Search Pic</string>
+  <string name="action_settings">Settings</string>
+</resources>
